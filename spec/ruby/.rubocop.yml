@@ -56,9 +56,6 @@ Lint/UnusedMethodArgument:
 Lint/UselessAssignment:
   Enabled: false
 
-Lint/BinaryOperatorWithIdenticalOperands:
-  Enabled: false
-
 Lint/Void:
   Enabled: false
 
